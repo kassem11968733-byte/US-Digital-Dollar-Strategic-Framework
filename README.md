@@ -90,7 +90,19 @@ Upon detection of a threat, the system is designed to autonomously trigger an en
 * **Institutional Alignment:** Designed to provide the **Federal Reserve, SEC, and FinCEN** with tools for total monetary oversight.
 * **Identity Management:** Utilizing **Pi Network’s decentralized KYC/KYB** for cryptographic privacy and verification.
 * **Traceability:** Ensures full regulatory compliance through official secure portals.
+------
+---
 
+### **Intellectual Property & Strategic Copyright Notice**
+**© 2026 Strategic Framework for US Digital Dollar. All Rights Reserved.**
+
+This framework, including its strategic pillars, economic models, and implementation guidelines, is the exclusive intellectual property of the author. This document is intended for conceptual and academic discussion. 
+
+**Restrictions:**
+* No part of this framework may be reproduced, modified, or distributed for commercial or governmental implementation without express written consent from the owner.
+* Any unauthorized use or claim of authorship over these strategic concepts will be subject to intellectual property legal standards.
+
+**Official Record:** This document is timestamped and logged via GitHub's immutable version control system as of the date of publication.
 ---
 
 ### **🚀 IMPLEMENTATION ROADMAP**
